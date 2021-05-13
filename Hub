@@ -2012,8 +2012,9 @@ end)
 
 Frame_2.Parent = ScreenGui
 Frame_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Frame_2.Position = UDim2.new(0.00431832206, 0, 0.168057203, 0)
-Frame_2.Size = UDim2.new(0, 147, 0, 47)
+Frame_2.BackgroundTransparency = 0
+Frame_2.Position = UDim2.new(0, 0, 0.878854632, 0)
+Frame_2.Size = UDim2.new(0, 111, 0, 35)
 
 TextButton_16.Parent = Frame_2
 TextButton_16.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
